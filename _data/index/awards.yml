@@ -1,0 +1,45 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Cambridge Judge Business School
+  desc:
+    detail: Accelerate Cambridge selects the most promising early stage startups in the Cambridge area every year. It helps the entrepreneurs turn an idea into a business, launch, and then keep going.   
+  date:
+    detail: 2018 - 2019
+  job:
+    detail: 
+  icon: fa-lightbulb-o
+  logo: cjbs.png
+
+- name:
+    detail: Pressed Steel Prize for Engineering
+  desc:
+    detail: Top of Engineering Tripos consecutively 2015 and 2016, Clare College.
+  date:
+    detail: 2015 - 2016
+  job:
+    detail: 
+  icon: fa-briefcase
+  logo: clare.png
+
+- name:
+    detail: London Metal Exchange Scholarship
+  desc:
+    detail: The LME runs a competitive scholarship program and supported my academics as a scholar and ambassador. This includes minor roles with the London Metal Exchange. 
+  date:
+    detail: 2014 - 2017
+  job:
+    detail: 
+  icon: fa-briefcase
+  logo: lme.png
+
+- name:
+    detail: Sir John Cass Aldermanic Badge and Foundation Scholarship
+  desc:
+    detail: Awarded prestigious scholarship by the Sir John Cass Foundation. 
+  date:
+    detail: 2014 - 2018
+  job:
+    detail: 
+  icon: fa-briefcase
+  logo: sjc.png
