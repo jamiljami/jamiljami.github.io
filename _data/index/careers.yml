@@ -36,7 +36,7 @@
 - name:
     detail: Cambridge University
   desc:
-    summary: <b>1st Class</b> BA Mechanical Engineering and Bioengineering (2017) </br> <b>Merit</b> in MEng Information Engineering (2018).<br/><b>Notable Courses:</b> Computational Neuroscience, Probabilistic Machine Learning, Deep Learning and Unstructured Data, Statistical Signal Analysis, Software Engineering and Design and Practical Optimisation.<br/><b>Masters Thesis:</b> Computational Neuroscience project looking into how neurons adapt to different biological environments and become more performant using Evolutionary Algorithms and optimisation techniques. Simulated biologically accurate neurons and created a novel architecture combining deep learning and statistical methods yielding good performance.
+    summary:  BA Mechanical Engineering and Bioengineering <b>1st Class</b> (2017) </br> MEng Information Engineering (2018).<br/><b>Notable Courses:</b> Computational Neuroscience, Probabilistic Machine Learning, Deep Learning and Unstructured Data, Statistical Signal Analysis, Software Engineering and Design and Practical Optimisation.<br/><b>Masters Thesis:</b> Computational Neuroscience project looking into how neurons adapt to different biological environments and become more performant using Evolutionary Algorithms and optimisation techniques. Simulated biologically accurate neurons and created a novel architecture combining deep learning and statistical methods yielding good performance.
   date:
     detail: Oct 14 - Jun 18
   job:
