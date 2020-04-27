@@ -4,8 +4,8 @@
 - name:
     detail: #University College London
   desc:
-    summary: Contracted private tutor for the MSc Machine Learning Course at University College London.
-    business: ·	Tutoring students in topics including Deep Learning, Natural Language Processing and Reinforcement Learning as well as advising on masters projects. <br/> · Students have seen grade increases from Pass to Merit and Merit to Distinction!  <br/> · Presented feedback to course lecturers to improve module delivery.
+    summary: Contracted private tutor with Tutorhunt for students on the MSc Machine Learning Course at University College London.
+    business: ·	Tutoring students in topics including Deep Learning, Natural Language Processing and Reinforcement Learning as well as advising on masters projects. <br/> · Students have seen grade increases from Pass to Merit and Merit to Distinction!  <br/> · Given feedback to students for surveys on module delivery.
     machine_learning: ·	Seq2seq-based text summarization; models including RNNs and Transformers. <br/> ·  Resnet-induced protein folding based on Google's Alphafold architecture. <br/> · Style Transfer for videos with implementations in Pytorch, Tensorflow and Colab.
   date:
     detail: May 19 - Present
