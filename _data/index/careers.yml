@@ -1,0 +1,98 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: #University College London
+  desc:
+    summary: Contracted private tutor with Tutorhunt for students on the MSc Machine Learning Course at University College London.
+    business: ·	Tutoring students in topics including Deep Learning, Natural Language Processing and Reinforcement Learning as well as advising on masters projects. <br/> · Students have seen grade increases from Pass to Merit and Merit to Distinction!  <br/> · Given feedback to students for surveys on module delivery.
+    machine_learning: ·	Seq2seq-based text summarization; models including RNNs and Transformers. <br/> ·  Resnet-induced protein folding based on Google's Alphafold architecture. <br/> · Style Transfer for videos with implementations in Pytorch, Tensorflow and Colab.
+  date:
+    detail: May 19 - Present
+  job:
+    detail: Tutor
+  icon: fa-briefcase
+  logo: ucl.png
+
+- name:
+    detail: Scope
+    i18n: company_a
+  desc:
+    summary: Scope is bursting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.
+    business: · Accepted onto competitive Cambridge Judge Business School Accelerator Programme. </br> · Attended national competition finale Pitch@Palace. Assisted pitch to senior executives and royalty at St James’s Palace. </br> · Helped secure £10,000 in seed-funding from Cambridge University Entrepreneurs.
+    engineering: · Assisted backend development, accessing databases and Scope’s proprietary content analysis API. </br> · Assisted the integration of machine learning tools into web applications. </br> · Created an NLP pipeline and deployed using pySpark on AWS.
+    machine_learning: · Designed and trained both supervised and unsupervised NLP algorithms for Sentiment Analysis, News Clustering, Topic Classification and Summarisation. </br> · Prototyped user recommendations based on LDA topic modelling and collaborative filtering methods. </br> · Prototyped client assistant chatbot, built using Google Dialogflow
+
+    i18n: company_a_desc
+  date:
+    detail: Sep 18 - Mar 19
+    i18n: company_a_date
+  job:
+    detail: Machine Learning Engineer
+    i18n: company_a_job
+  icon: fa-briefcase
+  logo: scope.png
+
+- name:
+    detail: Cambridge University
+  desc:
+    summary:  BA Mechanical Engineering and Bioengineering <b>1st Class</b> (2017) </br> MEng Information Engineering (2018).<br/><b>Notable Courses:</b> Computational Neuroscience, Probabilistic Machine Learning, Deep Learning and Unstructured Data, Statistical Signal Analysis, Software Engineering and Design and Practical Optimisation.<br/><b>Masters Thesis:</b> Computational Neuroscience project looking into how neurons adapt to different biological environments and become more performant using Evolutionary Algorithms and optimisation techniques. Simulated biologically accurate neurons and created a novel architecture combining deep learning and statistical methods yielding good performance.
+  date:
+    detail: Oct 14 - Jun 18
+  job:
+    detail: Masters Degree - Information Engineering 
+  icon: fa-university
+  logo: cambridge.png
+
+- name:
+    detail: World Solar Challenge 2017 Team
+  desc:
+    summary: Member of Cambridge University Eco Racing (CUER) World Solar Challenge 2017 Team. CUER is the UK's leading solar-powered EV race team. 
+    business: ·	Led a team of 10 student engineers in the development of subsystems including battery management and drive systems. </br> · Worked within a design and operations budget in excess of £1 million and assisted in sponsorship events with Mazak, Jaguar Land Rover and Hexcel. </br> · Best British Team Award.
+    engineering: · Lead engineer for the battery containment unit, drive systems and thermal management. </br> · Utilised Solidworks CAD and ANSYS Fluent CFD to design systems. </br> · Optimised race strategy based on solar input and battery loads using Matlab and C++.
+  date:
+    detail: Oct 16 - Oct 17
+  job:
+    detail: Systems Engineer
+  icon: fa-briefcase
+  logo: cuerwsc.png
+
+- name:
+    detail: Open Diagnostics
+  desc:
+    summary: A startup focused on providing a cheap and highly effective paper-based biosensor for use in developing countries.
+    business: ·	Improved ease-of-use by introducing automation and sourcing components cheaply, locally and open-source.</br> ·	Heavily optimised cost to decrease prototype cost 500-fold compared to existing systems.
+    engineering: · Automated testing and classification of RGB/grey coloured outputs of the paper-based biosensor.</br> · Created a prototype system using 3D printed parts and an Arduino, composed of a reflectance colourimeter and an LDR-LED system.
+    machine_learning: ·	Created a non-linear SVM classifier with % uncertainty to distinguish between biosensor output classes.</br> · Used PCA/TSNE and clustering techniques to convert 4 colour channels (RGB/grey) to 2D visualisation. Included edge-cases so that the system is invariant to external factors.</br> · Use sk-learn, Python and Jupyter Notebook with finalised model ported to C++.
+  date:
+    detail: Jun 17 - Jul 17
+  job:
+    detail: Data Engineering Internship
+  icon: fa-briefcase
+  logo: opendiag.png
+
+- name:
+    detail: #UROP Summer Design Team
+  desc:
+    summary: Member of Cambridge University Eco Racing's UROP Summer Design Team which laid the groundwork for the World Solar Challenge 2017. CUER is the UK's leading solar-powered EV race team. 
+    business: ·	Worked in a team of 13 to evaluate Evolution (WSC 2015) and improve design for Mirage (WSC 2017). </br> · Collaborated with Airbus Bristol to secure use of the Filton wind tunnel and with Fuji to procure reflective coating technologies. </br> · Coordinated multiple Outreach projects with Bluebrige Education and secured £5000 in sponsorship.
+    engineering: · Carried out aerodynamic and energetic analysis of all subsystems using Solidworks and Fluent. Team scrum-based methodology for iteration of prototype subsystems, with whole system integration at the end of each cycle. </br> · Designed internal ducting alongside lead aerodynamicist and electronics thermoregulation circuits with the electrical team using Altium.
+  date:
+    detail: Jun 16 - Aug 16
+  job:
+    detail: Aerospace Engineering Internship
+  icon: fa-briefcase
+  logo: cuersdt.png
+
+- name:
+    detail: #Ubisense 
+  desc:
+    summary: Ubisense Ltd develops the UK's leading IoT manufacturing system, SmartSpace. Interned in the mechanical and manufacturing engineering subdivision of a 30-person R&D division.
+    business: ·	Refactored the company Manufacturing Database System (Omnisense) with lean documentation and coached colleagues.  </br> · Worked with the US office on client-faced issues including mechanical system failures and general troubleshooting.  </br> · Led consultation with packaging manufacture on package design, manufacturing and distribution. Reduced costs by more than 50%.
+    engineering: · Carried out FMEA for battery spring system in mobile sensor unit. Redesigned new battery springs using FEA and reduced costs by 30%. </br> · Designed and manufactured a vacuum test rig and carried out ingress protection tests in line with ISO regulations.  </br> · Assisted in setup and software configuration of prototype SmartSpace system at Jaguar Land Rover.
+  date:
+    detail: Jun 15 - Sep 15
+  job:
+    detail: Mechanical Engineering Internship
+  icon: fa-briefcase
+  logo: ubisense.png

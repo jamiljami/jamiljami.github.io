@@ -1,0 +1,55 @@
+<div class="container" id="i18_career">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="career.my_career">My Career</span></h1>
+        </div>
+    </div>
+    <div class="row features-block">
+        <div class="col-lg-12">
+            <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
+            {% for career in site.data.index.careers %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+                <div class="vertical-timeline-block">
+                    <div class="vertical-timeline-icon {% if career.present ==  true %} navy-bg-present {% else %} navy-bg {% endif %} wow rotateIn">
+                        <i class="fa {{ career.icon }}"></i>
+                    </div>
+                    <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
+								<div class="team-member">
+	                        <img class="img-responsive img-small" src="/static/assets/img/career/{{ career.logo }}"></img>
+		                     <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
+								</div>
+
+								<!-- career item summary -->
+	                     <p>{{ career.desc.summary }}</p>
+								<!-- career item experience tabs -->
+								<div class="row-align tab-menu">
+									{% if career.desc.business %}
+									<h4 class="row-align" data-tab="business" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Business</h4>
+									{% endif %}
+									{% if career.desc.engineering %}
+									<h4 class="row-align" data-tab="software" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Engineering</h4>
+									{% endif %}
+									{% if career.desc.machine_learning %}
+									<h4 class="row-align" data-tab="ml" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Machine Learning</h4>
+									{% endif %}
+								</div>
+								<!-- career item experience content -->
+								<div class="tabs">
+	                        <p data-tab="business"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.business }} </span></p>
+	                        <p data-tab="software"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.engineering }} </span></p>
+	                        <p data-tab="ml"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.machine_learning }} </span></p>
+								</div>
+								<!-- career item dates and role -->
+                        <h4>
+									<span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
+									<br/>
+									<small><span data-i18n="career.{{ career.job.i18n }}">{{ career.job.detail }}</span></small> </span>
+								</h4>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
