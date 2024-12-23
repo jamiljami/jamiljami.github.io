@@ -2,17 +2,45 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: #University College London
+    detail: University College London
   desc:
-    summary: Contracted private tutor with Tutorhunt for students on the MSc Machine Learning Course at University College London.
-    business: ·	Tutoring students in topics including Deep Learning, Natural Language Processing and Reinforcement Learning as well as advising on masters projects. <br/> · Students have seen grade increases from Pass to Merit and Merit to Distinction!  <br/> · Given feedback to students for surveys on module delivery.
-    machine_learning: ·	Seq2seq-based text summarization; models including RNNs and Transformers. <br/> ·  Resnet-induced protein folding based on Google's Alphafold architecture. <br/> · Style Transfer for videos with implementations in Pytorch, Tensorflow and Colab.
+    summary: PhD Researcher in Energy Infrastructure & Artificial Intelligence
+    business: Applying advanced data science methods and modelling for forecasting UK energy generation and demand for Net Zero 2050.
+    machine_learning: Courses include Energy Systems, Machine Learning, AI Safety, Sociotechnical Analysis, Economics & Policy Strategy.
   date:
-    detail: May 19 - Present
+    detail: Oct 2020 - Present
   job:
-    detail: Tutor
-  icon: fa-briefcase
+    detail: PhD Researcher
+  icon: fa-university
   logo: ucl.png
+
+- name:
+    detail: Projecting Success UK
+  desc:
+    summary: Led development of business intelligence analytics for Training Courses and Data Apprenticeships.
+    business: Managed relationships with stakeholders, investors and executives.
+    engineering: Developed analytics dashboards and e-learning platform infrastructure.
+    machine_learning: Implemented business intelligence solutions using Python and PowerBI.
+  date:
+    detail: May 2021 - Feb 2022
+  job:
+    detail: Product Owner
+  icon: fa-briefcase
+  logo: projecting_success.jpeg
+
+- name:
+    detail: Igloo Energy
+  desc:
+    summary: Energy Engineering Consultant & Backend Developer collaborating with Aramco Europe
+    business: Consulted on technical rollout of solar installations, heat pumps and automated home energy systems across the UK and Europe.
+    engineering: Developed dashboards for energy behaviours and predictions.
+    machine_learning: Implemented energy forecasting models and automation systems.
+  date:
+    detail: Nov 2019 - Jun 2023
+  job:
+    detail: Energy Engineering Consultant
+  icon: fa-briefcase
+  logo: igloo.png
 
 - name:
     detail: Scope
