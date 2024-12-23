@@ -1,8 +1,0 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-cmb.mp4 filter=lfs diff=lfs merge=lfs -text
-cuerevo.mp4 filter=lfs diff=lfs merge=lfs -text
-idp.mp4 filter=lfs diff=lfs merge=lfs -text
-opendiag.mp4 filter=lfs diff=lfs merge=lfs -text
-scope.mp4 filter=lfs diff=lfs merge=lfs -text
-ucl.mp4 filter=lfs diff=lfs merge=lfs -text
-legomasters.mp4 filter=lfs diff=lfs merge=lfs -text
