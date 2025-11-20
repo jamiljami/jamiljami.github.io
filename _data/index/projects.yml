@@ -43,6 +43,15 @@
   sound: true
   desc: A spin-off from the <a href="https://centreforglobalequality.org/" target="_blank">Centre for Global Equality</a>, OpenDiagnostics combines advances in synthetic biology and machine learning to create health solutions for developing countries. Our latest technology is an automated water contaminant biosensor, made simply and sourced locally. Seriously the cost savings are 500-fold and the device is around $30!
 
+- name: iGem 2015
+  buttons:
+    - name: Web
+      url: https://igem.org/
+  img: #/static/assets/img/project/opendiag.png
+  video: #https://github.com/jamiljami/jamiljami.github.io/raw/master/static/assets/video/project/opendiag.mp4
+  sound: #true
+  desc: Helped design and assemble synthetic biological systems for microscopy using BioBrick / Golden Gate cloning, validating constructs in E. coli and running DBTL cycles with proper controls.
+
 - name: Quantopian Trader
   buttons:
     - name: Web
