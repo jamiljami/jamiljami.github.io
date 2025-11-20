@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Cambridge Judge Business School
+    detail: Judge Business School
   desc:
     detail: Accelerate Cambridge selects the most promising early stage startups in the Cambridge area every year. It helps the entrepreneurs turn an idea into a business, launch, and then keep going.   
   date:

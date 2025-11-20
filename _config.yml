@@ -19,24 +19,24 @@ author:  # change following line to your infomation.
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
-  email: mjkjami@gmail.com  # Leave blank if you don't have now
+  email: mjikj2@gmail.com  # Leave blank if you don't have now
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-github
       url: https://github.com/jamiljami
     #- name: fa-linkedin
-     # url : https://www.linkedin.com/in/bradley-fowler
+     # url : https://www.linkedin.com/in/
   skill_icon2:
     - name: fa-envelope-o
-      url: mailto:mjkjami@gmail.com 
+      url: mailto:mjikj2@gmail.com 
    # - name: fa-facebook
-   #   url: https://www.facebook.com/bradleyfowler123
+   #   url: https://www.facebook.com/
   contact:
     #- name: fa-linkedin
-    #  url : https://www.linkedin.com/in/bradley-fowler
+    #  url : https://www.linkedin.com/in/
     - name: fa-envelope-o
-      url: mailto:mjkjami@gmail.com 
+      url: mailto:mjikj2@gmail.com 
 
   desc: #Founder and CEO of AI News company, Scope.<br/>I specialise in Artificial Intelligence and Software with a Masters degree from the University of Cambridge in Information and Computer Engineering. I have a strong passion for business, algorithms and understanding new technology.<br/>Please feel free to reach out. I am open to opportunities, particularly those in the Machine Learning and algorithms space. I look forward to hearing from you! 
 
