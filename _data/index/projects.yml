@@ -47,7 +47,7 @@
   buttons:
     - name: Web
       url: https://igem.org/
-  img: #/static/assets/img/project/opendiag.png
+  img: /static/assets/img/project/igem.png
   video: #https://github.com/jamiljami/jamiljami.github.io/raw/master/static/assets/video/project/opendiag.mp4
   sound: #true
   desc: Helped design and assemble synthetic biological systems for microscopy using BioBrick / Golden Gate cloning, validating constructs in E. coli and running DBTL cycles with proper controls.
