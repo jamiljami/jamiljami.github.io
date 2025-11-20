@@ -40,7 +40,7 @@
   job:
     detail: Data Manager Placement
   icon: fa-briefcase
-  logo: projecting_success.jpeg
+  logo: projecting.png
 
 - name:
     detail: London Metal Exchange
@@ -54,7 +54,7 @@
   job:
     detail: Sustainable Markets Analyst (Scholar)
   icon: fa-briefcase
-  logo: 
+  logo: lme_round.png
 
 - name:
     detail: Scope
@@ -113,7 +113,7 @@
   logo: cuerwsc.png
 
 - name:
-    detail: ICONICS (Microsoft/Mitsubishi USA)
+    detail: ICONICS (Mitsubishi / Microsoft USA)
   desc:
     summary: Operations engineering intern working with real-time sensor and robotics data from manufacturing lines.
     business: ·	Supported energy-efficiency and downtime-reduction initiatives in industrial environments.
@@ -124,7 +124,7 @@
   job:
     detail: Operations Engineering Intern
   icon: fa-briefcase
-  logo: 
+  logo: microsoft.png
 
 - name:
     detail: Ubisense 
